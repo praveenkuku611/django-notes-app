@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : praveenkuku611/docker-hub-note
+    image : praveenkuku611/docker-hub-note:latest
      ports :
          - "8000:8000"
